@@ -2,6 +2,7 @@
 <hr>
 <img src="https://github.com/frostbyte012/Snakes-2D-in-Python/blob/main/assets/Snakes2D_GIF.gif" alt="Sorry try to reload" width="1000" height="600">
 <br>
+
 The snake is an arcade maze game that was created in the company of Gremlin Industries and published by Sega in the month of October 1976. It is considered an excellent game and has been gaining popularity with the public for many generations. The Snake game can be controlled with the four direction buttons in relation to the direction it's heading into. The goal of playing the game is to score maximum points by grabbing food or fruits. The player is out of luck if the snake strikes the wall or itself.
 
 For beginners in Python and those seeking to create something simpler in their field can test this program. The module called Turtle was specifically designed to be used for beginners to play with and submit a program of the project. This project is written using Python 3.0.
@@ -12,7 +13,7 @@ Turtle: This is an installed Python library that allows users to draw patterns a
 Time: It is used in order to calculate the number of seconds since the date of the event.
 Random: This is a function utilized to create random numbers in Python through the use of the random module.
 
-<h2>Implementation:</hr>
+<h2>Implementation:</h2>
 
 Here is the step-by-step method to make the Snake Game using the Turtle module:
 
