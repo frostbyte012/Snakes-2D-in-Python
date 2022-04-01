@@ -1,7 +1,7 @@
 <h1>SNAKE 2D GAME</h1>
 <br>
 <hr>
-<img src="" alt="Girl in a jacket" width="1000" height="600">
+<img src="https://github.com/frostbyte012/Snakes-2D-in-Python/blob/main/assets/Snakes2D_GIF.gif" alt="Sorry try to reload" width="1000" height="600">
 <br>
 The snake is an arcade maze game that was created in the company of Gremlin Industries and published by Sega in the month of October 1976. It is considered an excellent game and has been gaining popularity with the public for many generations. The Snake game can be controlled with the four direction buttons in relation to the direction it's heading into. The goal of playing the game is to score maximum points by grabbing food or fruits. The player is out of luck if the snake strikes the wall or itself.
 
